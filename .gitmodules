@@ -1,0 +1,3 @@
+[submodule "treasurysystem_project"]
+	path = treasurysystem_project
+	url = https://github.com/Mosouley/ficc_front.git
